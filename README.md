@@ -2,7 +2,7 @@
 
 # ⚡ SANDEEP RAJ SARAVANAN ⚡
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=💻+Red+Hat+Certified+Engineer+(RHCE);🔐+Red+Hat+Certified+SysAdmin+(RHCSA);🌐+Web+Developer+%7]()
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=💻+Red+Hat+Certified+Engineer+(RHCE);🔐+Red+Hat+Certified+SysAdmin+(RHCSA);🌐+Web+Developer+%7]()]
 
 
 <!-- AI Pulse Animation -->
