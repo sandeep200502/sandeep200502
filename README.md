@@ -2,7 +2,8 @@
 
 # ⚡ SANDEEP RAJ SARAVANAN ⚡
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=480&lines=%F0%9F%92%BB+Red+Hat+Certified+Engineer+%28RHCE%29;%F0%9F%92%BB+Red+Hat+Certified+System+Administrator+%28RHCSA%29;%F0%9F%94%A5+Linux+%7C+DevOps+Enthusiast;%E2%9A%99%EF%B8%8F+System+Automation+with+Ansible;%F0%9F%92%BE+Cloud+Infrastructure+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=💻+Red+Hat+Certified+Engineer+(RHCE);🔐+Red+Hat+Certified+SysAdmin+(RHCSA);🐧+Linux+%7C+DevOps+Enthusiast;⚙️+System+Automation+with+Ansible;☁️+Cloud+Infra+Learner+%26+Shell+Scripter)](https://git.io/typing-svg)
+
 <!-- AI Pulse Animation -->
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="50%" />
 
