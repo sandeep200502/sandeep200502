@@ -17,19 +17,26 @@
 
 ## 🧠 Neural Blueprint (About Me)
 ```python
-class AIMLPioneer:
+class TechExplorer:
     def __init__(self):
-        self.name = "J Joshua Haniel"
-        self.university = "SRM University, Chennai"
-        self.major = "Computer Science & Engineering"
-        self.year = "2nd Year"
-        self.status = "Tech Enthusiast | Hackathon Champion"
+        self.name = "Sandeep Raj Saravanan"
+        self.university = "SRM Institute of Science and Technology"
+        self.major = "Computer Science & Engineering (Core)"
+        self.year = "Pre-Final Year"
+        self.status = "RHCE | RHCSA | Web Developer | AI/ML & IoT Enthusiast"
+        self.certifications = ["Red Hat Certified Engineer (RHCE)", 
+                               "Red Hat Certified System Administrator (RHCSA)"]
 
     def recent_projects(self):
-        return ["AI Object detector", "V.A.U.L.T."]
+        return [
+            "Smart Environmental Monitoring System", 
+            "Event Management System", 
+            "AI-powered Piping Design Tool"
+        ]
 
     def superpower(self):
-        return "Transforming real-world problems into AI-driven solutions"
+        return "Blending automation, AI, and IoT to build scalable, real-world tech solutions"
+
 ```
 
 <!-- Cyberpunk Divider -->
@@ -47,13 +54,15 @@ class AIMLPioneer:
 ### 🧠 AI & ML Power
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)](#)
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](#)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](#)
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)](#)
+[![GenAI](https://img.shields.io/badge/GenerativeAI-FF0080?style=for-the-badge&logo=openai&logoColor=white)](#)
 
 ### ⚙️ Dev Tools & Platforms
 [![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
 [![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](#)
 [![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](#)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](#)
 
 </div>
 
