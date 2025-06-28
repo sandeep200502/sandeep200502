@@ -72,10 +72,12 @@ class TechExplorer:
 
 
 ## 🌟 Innovation Footprints
-- 🛡️ Developed **AI Object detector** with real-time computer vision
-- 🧠 Exploring **AI/ML**, Computer Vision, and automation with Colab
-- 🚀 Hackathon Winner — MIT Chennai and SRM IST Vadapalani
-- 🧑‍💻 Always evolving, always building
+- 🧠 Developed a **Voice-based SOS System (VoiSOS)** with real-time GPS and multilingual support — published in Springer
+- 🌿 Designed an **IoT-based Smart Environmental Monitoring System** using DHT11 and ESP8266
+- 🏥 Created a **Java-based Healthcare Management System** with CRUD, login roles, and scheduling features
+- 🎟️ Built a full-stack **Event Management System** for user registration, booking, and event hosting
+- 🔧 Finalist at **ACE Hacks 24-hour Hackathon** — pipeline routing optimization challenge
+- 🤖 Hands-on participant in **IoRT Workshop** at ICIOT 2025, SRM — focused on robotic systems and IoT integration
 
 ## 🌐 Connect with Me
 
