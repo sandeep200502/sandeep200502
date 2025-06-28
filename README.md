@@ -85,6 +85,7 @@ class TechExplorer:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/sandeeprajsaravanan/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=00FF00&labelColor=000000)](https://github.com/sandeeprajsaravanan/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:sandeep02122005@gmail.com)
 </div>
 
 <!-- Final Divider -->
